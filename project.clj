@@ -1,4 +1,4 @@
-(defproject digest "0.1-SNAPSHOT"
+(defproject org.clojars.akiel/digest "0.1-SNAPSHOT"
   :description "Simple Clojure message digest (MD5, SHA-1, ...) lib."
   :url "https://github.com/alexanderkiel/digest"
   :license {:name "Eclipse Public License"
