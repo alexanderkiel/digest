@@ -1,5 +1,7 @@
 # Digest
 
+[![Build Status](https://travis-ci.org/alexanderkiel/digest.svg?branch=master)](https://travis-ci.org/alexanderkiel/digest)
+
 The goal of this library is to provide a simple and clean message digest
 implementation for Clojure and possible ClojureScript without any dependencies
 and without any magic code.
