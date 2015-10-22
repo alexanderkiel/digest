@@ -6,6 +6,14 @@ The goal of this library is to provide a simple and clean message digest
 implementation for Clojure and possible ClojureScript without any dependencies
 and without any magic code.
 
+## Install
+
+To install, just add the following to your project dependencies:
+
+```clojure
+[org.clojars.akiel/digest "0.1"]
+```
+
 ## Other Libs
 
 ### Pandect
