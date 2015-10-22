@@ -1,4 +1,5 @@
 /target/
+/projectFilesBackup/
 /pom.xml
 /.lein-*
 /.nrepl-port
